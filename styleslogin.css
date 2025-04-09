@@ -1,0 +1,139 @@
+body{
+    background-color:   #191919;
+    margin: 0%;
+}
+
+.login{
+    position: relative;
+    top: 20px;
+    padding: 25px 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-shadow: 0px 0px 20px; 
+}
+
+form{
+    background-image: url(paisaje.jpg);
+    padding: 20px 10px;
+    max-width: 500px;
+    margin: auto;
+    box-shadow: 0 0 60px 0 black;
+    border-radius: 55px;
+}
+
+.forminput{
+    padding: 10px 20px;
+    border-radius: 50px;
+}
+
+.label1{
+    position: relative;
+    left: 25px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: white;
+}
+
+.emailpass{
+    border-radius: 20px;
+    box-shadow: 0 0 10px white;
+}
+
+.label2{
+    position: relative;
+    top: -5px;
+    left: 5px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: white;
+}
+
+input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 6px 12px;
+    border: none;
+    border-left: 4px #c2c2c2 solid;
+    
+}
+
+.enviar{
+    border-radius: 50px;
+    max-width: 200px;
+    position: relative;
+    top: 24px;
+    right: -125px;
+    cursor: pointer;
+    box-shadow: 0 0 10px white;
+
+}
+
+.line{
+    position: relative;
+    left: -2px;
+    top: -30px;
+    max-width: 140px;
+}
+
+.o{
+    position: relative;
+    top: -2.6px;
+    left: -3px;
+    padding: 25px 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 0px 0px 20px white;
+    font-size: 15px;
+    color: white;
+}
+
+.line2{
+    position: relative;
+    left: -2px;
+    top: 30px;
+    max-width: 170px;
+}
+
+.registrarse{
+    cursor: pointer;
+    position: relative;
+    top: -16px;
+    left: 176px;
+    max-width: 140px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px white;
+    
+}
+
+.aceptarterminos{
+    color: white;
+    position: relative;
+    top: -7px;
+    left: -1px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-shadow: 0px 0px 20px ;
+}
+
+.checkbox{
+    position: relative;
+    left: -2px;
+    margin: 0;
+    padding: 0;
+}
+
+.terminosycondiciones{
+    color: white;
+    display: block;
+    position: relative;
+    top: 5px;
+    left: -1px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-shadow: 0px 0px 20px ;
+}
